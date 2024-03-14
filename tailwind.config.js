@@ -7,10 +7,10 @@ module.exports = {
     },
     extend: {
       colors: {
-        "raisin-dark": "#131019",
+        "raisin-dark": "#2C4304",
         "raisin": "#241E29",
-        "sun": "#FFC857",
-        "artichoke": "#7EA16B",
+        "sun": "#E0BF6F",
+        "artichoke": "#84AB41",
         "sea": "#19647E"
       },
     },
